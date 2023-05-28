@@ -7,6 +7,4 @@
 
 ![](https://raw.githubusercontent.com/JavierOlmedo/OWASP-Calculator/master/img/orac.gif)
 
-> _Made with ❤️ in Spain_
-
 </div>
