@@ -159,7 +159,7 @@ function calculate(){
   score = score + 'PV:' + $("#pv").val();
   score = score + ')';
   $('#score').text(score);
-  $("#score").attr("href", "https://javierolmedo.github.io/OWASP-Calculator/?vector=" + score);
+  $("#score").attr("href", "https://nancy-17.github.io/OWASP-risk-calculator/?vector=" + score);
 
   if(getRisk(LS) == "LOW"){
       $(".LS").addClass("classNote");
